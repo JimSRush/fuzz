@@ -29,5 +29,5 @@ def fuzz(word):
 # Add wordlist option
 # Add single word option
 
-fuzz("SLSRTC")
+fuzz("BusinessName")
 
